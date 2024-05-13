@@ -40,3 +40,6 @@ selecionar o carro desejado, fornecer detalhes de reserva e concluir o processo 
  
  **Linkedin:** 
  https://www.linkedin.com/in/ruan-guedes-807578248/
+
+ **E-mail**
+ https: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZfSDRnMwWlfdRrkTGXpzNxKkgsMgxxmbNKVJHmFKslnpbjsScPGnVQbtmwWZWJtgsPHwg
